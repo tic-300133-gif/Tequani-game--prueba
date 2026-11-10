@@ -1,0 +1,742 @@
+fileFormatVersion: 2
+guid: 0173cbe2310688944a8906a2b5a21321
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gonzalo-dash_0
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1109
+        width: 194
+        height: 171
+      alignment: 9
+      pivot: {x: 0.3241444, y: 0.5289553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac608bb69b6a90c4ea03c2af8598029b
+      internalID: 1026421637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gonzalo-dash_1
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1109
+        width: 77
+        height: 68
+      alignment: 9
+      pivot: {x: 0.3241444, y: 0.5289553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5caa7d5997a9cf441b4812c613ba4fbc
+      internalID: -140208220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gonzalo-dash_2
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1116
+        width: 85
+        height: 67
+      alignment: 9
+      pivot: {x: 0.3241444, y: 0.5289553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3909f7726a4ccd40a1b5574c79cd8da
+      internalID: -247839623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gonzalo-dash_3
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1112
+        width: 84
+        height: 71
+      alignment: 9
+      pivot: {x: 0.3241444, y: 0.5289553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56f98510f0dc3f40a8f02b5bcebe965
+      internalID: -2128615572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gonzalo-dash_4
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 1109
+        width: 78
+        height: 72
+      alignment: 9
+      pivot: {x: 0.3241444, y: 0.5289553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1893c67ce40758144afb5e665cbc3ade
+      internalID: -2121092830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gonzalo-dash_5
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 860
+        width: 87
+        height: 64
+      alignment: 9
+      pivot: {x: 0.3241444, y: 0.5289553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373263dd6a9653943b6b8a5022e48fad
+      internalID: 202056340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gonzalo-dash_6
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 853
+        width: 79
+        height: 70
+      alignment: 9
+      pivot: {x: 0.3241444, y: 0.5289553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5ac0fe0dac30b48abcb55817165c45
+      internalID: -1996204488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gonzalo-dash_7
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 853
+        width: 78
+        height: 72
+      alignment: 9
+      pivot: {x: 0.3241444, y: 0.5289553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610db7702957ff744b58c47da56d9c42
+      internalID: 1286084562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gonzalo-dash_8
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 858
+        width: 88
+        height: 70
+      alignment: 9
+      pivot: {x: 0.3241444, y: 0.5289553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0642897895f97334ca317b5853b71a02
+      internalID: -172550144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gonzalo-dash_9
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 853
+        width: 78
+        height: 71
+      alignment: 9
+      pivot: {x: 0.3241444, y: 0.5289553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37743876e35ed3488027eeaecd31577
+      internalID: -1726209690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gonzalo-dash_10
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 603
+        width: 86
+        height: 65
+      alignment: 9
+      pivot: {x: 0.3241444, y: 0.5289553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1a23ee0556f5547b42844129614db4
+      internalID: -1295234621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gonzalo-dash_11
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 600
+        width: 86
+        height: 67
+      alignment: 9
+      pivot: {x: 0.3241444, y: 0.5289553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b04affe00e89643a2a202419a19bb9
+      internalID: 1836177728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gonzalo-dash_12
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 597
+        width: 79
+        height: 73
+      alignment: 9
+      pivot: {x: 0.3241444, y: 0.5289553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87fe3512495c8442b324e764b83da97
+      internalID: 790678797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gonzalo-dash_13
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 602
+        width: 88
+        height: 70
+      alignment: 9
+      pivot: {x: 0.3241444, y: 0.5289553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4f0de8234e5a44fb2b240a93a97ee6
+      internalID: 1695651990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gonzalo-dash_14
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 597
+        width: 76
+        height: 72
+      alignment: 9
+      pivot: {x: 0.3241444, y: 0.5289553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d8a7b8f3016d847834e04fea45db6e
+      internalID: 786676714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gonzalo-dash_15
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 341
+        width: 79
+        height: 72
+      alignment: 9
+      pivot: {x: 0.3241444, y: 0.5289553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34614ee193a53f34a9ef49dce3de7770
+      internalID: 1728334610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gonzalo-dash_16
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 344
+        width: 86
+        height: 67
+      alignment: 9
+      pivot: {x: 0.3241444, y: 0.5289553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2e460bfd4d12040afcd001d5c45342
+      internalID: -1096981964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gonzalo-dash_17
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 341
+        width: 78
+        height: 70
+      alignment: 9
+      pivot: {x: 0.3241444, y: 0.5289553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9458b3dea71bdcf4da36873279582968
+      internalID: 1361913025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gonzalo-dash_18
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 347
+        width: 85
+        height: 68
+      alignment: 9
+      pivot: {x: 0.3241444, y: 0.5289553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ccca30d161024409f911eea9dbc3aa
+      internalID: -836940441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gonzalo-dash_19
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 342
+        width: 76
+        height: 62
+      alignment: 9
+      pivot: {x: 0.3241444, y: 0.5289553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81416e19d93b6c4ea39fdd8204b0fee
+      internalID: -1418344142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gonzalo-dash_20
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 85
+        width: 78
+        height: 62
+      alignment: 9
+      pivot: {x: 0.3241444, y: 0.5289553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab73dff2006251b429d795e75d1f2e6b
+      internalID: 181431725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gonzalo-dash_21
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 85
+        width: 69
+        height: 73
+      alignment: 9
+      pivot: {x: 0.3241444, y: 0.5289553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e1eb5073f3dd342acf443c2734fba3
+      internalID: 1843573010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gonzalo-dash_22
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 85
+        width: 34
+        height: 88
+      alignment: 9
+      pivot: {x: 0.3241444, y: 0.5289553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4eba5f56642ad41b1acb43c4e90642
+      internalID: -413206746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gonzalo-dash_23
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 85
+        width: 28
+        height: 88
+      alignment: 9
+      pivot: {x: 0.3241444, y: 0.5289553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f241f5206c173c4187d03e378249e3a
+      internalID: 1722264159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gonzalo-dash_24
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 85
+        width: 27
+        height: 88
+      alignment: 9
+      pivot: {x: 0.3241444, y: 0.5289553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b270479292355434b81a38278223eda3
+      internalID: -1215476439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Gonzalo-dash_0: 1026421637
+      Gonzalo-dash_1: -140208220
+      Gonzalo-dash_10: -1295234621
+      Gonzalo-dash_11: 1836177728
+      Gonzalo-dash_12: 790678797
+      Gonzalo-dash_13: 1695651990
+      Gonzalo-dash_14: 786676714
+      Gonzalo-dash_15: 1728334610
+      Gonzalo-dash_16: -1096981964
+      Gonzalo-dash_17: 1361913025
+      Gonzalo-dash_18: -836940441
+      Gonzalo-dash_19: -1418344142
+      Gonzalo-dash_2: -247839623
+      Gonzalo-dash_20: 181431725
+      Gonzalo-dash_21: 1843573010
+      Gonzalo-dash_22: -413206746
+      Gonzalo-dash_23: 1722264159
+      Gonzalo-dash_24: -1215476439
+      Gonzalo-dash_3: -2128615572
+      Gonzalo-dash_4: -2121092830
+      Gonzalo-dash_5: 202056340
+      Gonzalo-dash_6: -1996204488
+      Gonzalo-dash_7: 1286084562
+      Gonzalo-dash_8: -172550144
+      Gonzalo-dash_9: -1726209690
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
